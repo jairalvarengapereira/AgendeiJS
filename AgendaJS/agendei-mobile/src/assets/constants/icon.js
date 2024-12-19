@@ -1,0 +1,16 @@
+import home from '../images/home.png'
+import home2 from '../images/home2.png'
+import calendar from '../images/calendar.png'
+import calendar2 from '../images/calendar2.png'
+import clock from '../images/clock.png'
+import clock2 from '../images/clock2.png'
+import profile from '../images/profile.png'
+import profile2 from '../images/profile2.png'
+import logo from '../images/logo.png'
+import logo1 from '../images/logo1.png'
+import logo2 from '../images/logo2.png'
+import logo3 from '../images/logo3.png'
+import male from '../images/male2.png'
+import female from '../images/female2.png'
+
+export default { home, home2, calendar, calendar2, clock, clock2, home, home2, profile, profile2, logo, logo1, logo2, logo3, male, female }; 
